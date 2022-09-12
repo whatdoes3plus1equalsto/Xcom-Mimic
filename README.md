@@ -6,3 +6,5 @@
     Hugo Ng
 ## Stage
     Prototyping
+## How to play
+    execute Driver
