@@ -6,5 +6,11 @@
     @Hugo Ng
 ## Stage
     Prototyping
+## Language
+    C++
+## Environment
+    Visual Studio 2022 (Windows)
+    Visual Studio Code (MacOS)
+    aviary.cs.umanitoba.ca (Linux)
 ## How to play
     execute Driver
