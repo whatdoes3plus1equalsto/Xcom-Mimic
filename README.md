@@ -3,7 +3,7 @@
 ## Description
     To create a turn-based tactical game that is similar to Xcom 2.
 ## Author
-    Hugo Ng
+    @Hugo Ng
 ## Stage
     Prototyping
 ## How to play
