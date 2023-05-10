@@ -20,23 +20,26 @@
 
     1. Setting
     
-    2. Character
-        2.1 Controllable (to be added)
-            2.1.1 Soldier (to be added)
-                2.1.1.1 Ranger (to be added)
-                2.1.1.2 Grenadier (to be added)
-                2.1.1.3 Sharpshooter (to be added)
-                2.1.1.4 Specialist (to be added)
-        2.2 Enemy (to be added)
+    2. Character (abstract)
+        2.1 Controllable (abstract)
+            2.1.1 Soldier
+                2.1.1.1 Ranger
+                2.1.1.2 Grenadier
+                2.1.1.3 Sharpshooter
+                2.1.1.4 Specialist
+        2.2 Enemy (abstract)
 
-    3. Item
-        3.1 FireArm
-            3.1.1 Rifle (to be added)
-            3.1.2 Pistol (to be added)
-            3.1.3 Shooter (to be added)
-            3.1.4 Flamer (to be added)
-            3.1.5 MachineGun (to be added)
-        3.2 Throwable
+    3. Item (abstract)
+        3.1 FireArm (abstract)
+            3.1.1 Rifle
+            3.1.2 Pistol 
+            3.1.3 SniperRifle 
+            3.1.4 MachineGun 
+            3.1.5 ShotGun 
+        3.2 Throwable (abstract)
+            3.2.1 FragGrenade 
+            3.2.2 SmokeGrenade 
+            3.2.3 FlashGrenade 
 
     4. Field
-        4.1 GameBoard (to be added)
+        4.1 GameBoard 
