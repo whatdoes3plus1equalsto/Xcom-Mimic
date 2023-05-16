@@ -25,7 +25,7 @@
             2.1.1 Soldier
                 2.1.1.1 Ranger
                 2.1.1.2 Grenadier
-                2.1.1.3 Sharpshooter
+                2.1.1.3 SharpShooter
                 2.1.1.4 Specialist
         2.2 Enemy (abstract)
 
