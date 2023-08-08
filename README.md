@@ -1,7 +1,7 @@
 ## Project Name
     Xcom - Mimic (for now)
 ## Description
-    To create a turn-based tactical game that is similar to Xcom 1 or Xcom 2.
+    To create a 2D turn-based tactical game that is similar to Xcom 1 or Xcom 2.
 ## Author
     @Hugo Ng
 ## Stage
@@ -9,13 +9,17 @@
     Re-evaluate
 ## Language
     C++
-## Environment
+## Develope Environment
     Visual Studio 2022 (Windows)
     Visual Studio Code (MacOS)
     aviary.cs.umanitoba.ca (Linux)
+## Features
+    Destructible Buiding/Cover
+    Aiming Percentage System
+    Soldier Class System
+    AI enemy ?
 ## How to play
     execute Driver
-
 ## Structure
     0. Driver
 
