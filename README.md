@@ -5,8 +5,7 @@
 ## Author
     @Hugo Ng
 ## Stage
-    Prototyping (currently halt)
-    Re-evaluate
+    Designing
 ## Language
     C++
 ## Develope Environment
